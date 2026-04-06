@@ -2,7 +2,8 @@
 use of mysql2 in web dev
 
 # Database 
-you need to create a student table with the following fields, and then add some records 
+you need to create a student table with the following fields, and then add some records:
+
 id(primary key), name, dept_name, tot_credit
 
 # How to run
