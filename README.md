@@ -12,8 +12,12 @@ npm install
 (this will install all the dependencies) 
 
 To run the code:  
+issue the following command in the project directory: 
+
 npm run dev 
+
 or 
+
 nodemon server.js 
 
 
