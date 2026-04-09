@@ -18,6 +18,6 @@ app.listen(port,(err)=>{
     console.log("Server is listening at port:"+port);
 });
 
- app.use("/api",routes);
+ app.use("/",routes);
  
 export default app;
